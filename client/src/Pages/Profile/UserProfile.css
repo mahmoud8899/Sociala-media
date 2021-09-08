@@ -1,0 +1,1319 @@
+/*
+
+background: #1877f2;
+    background: #e4e6eb;
+    background: #ffffff;
+    color: #8c939d;
+*/
+
+.colx{
+    margin-top: 3rem;
+    background-color: #ffffffe8;
+    height: 536px;
+
+}
+
+.cover_ImageUploading{
+    width: 100%;
+    display: flex;
+    padding: 0rem;
+    margin: 0rem;
+    position: relative;
+    margin-top: 3em;
+    height: 290px;
+}
+
+.Icons_Uploading{
+    position: absolute;
+    background: #e4e6eb;
+    border: none;
+    outline: none;
+    padding: 0.3rem;
+    display: flex;
+    font-size: 13px;
+    border-radius: 0.4rem;
+    align-items: center;
+    right: -1rem;
+    bottom: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.Icons_Uploading i{
+    width: 30px;
+    text-align: center;
+    font-size: 13px;
+    color: black;
+}
+
+
+
+.Myprofil_index_fist{
+    width: 100%;
+    margin: 0rem;
+    padding: 0rem;
+    outline: none;
+    height: 290px;
+    display: flex;
+    border: none;
+    outline: none;
+    border-radius: 0.3rem;
+    opacity: 0.9;
+    cursor: pointer;
+   
+}
+
+.Myprofil_index_Icons{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+}
+.div_Imag_profile{
+    background-color: brown;
+    margin: 0rem;
+    padding: 0rem;
+    position: relative;
+}
+.Myprofil_index_last{
+
+
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    outline: none;
+    box-shadow: 0rem 0rem 0rem 0.2rem #e4e6eb;
+    border: none;
+    outline: none;
+    margin: 0rem auto;
+    display: block;
+    position: absolute;
+    bottom: 0em;
+    padding: 0.1rem;
+  
+}
+
+
+.Icons_Uploading_my i{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #e4e6eb;
+  text-align: center;
+  line-height: 30px;
+  font-size: 15px;
+ line-height: 30px;
+ box-shadow: 0rem 0rem 0.1rem white;
+ cursor: pointer;
+ box-shadow: 0rem 0rem 0rem 0.2rem #e4e6eb;
+font-size: 14px;
+ opacity: 0.9;
+ position: absolute;
+bottom: 1rem;
+ padding: 0rem;
+
+}
+
+.Edit_allt{
+    
+    text-transform: capitalize;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.Edit_Profile{
+    color: #1877f2;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 0.3rem;
+    cursor: pointer;
+}
+
+
+.List_profile_navbar{
+    list-style: none;
+    text-transform: capitalize;
+    
+    display: flex;
+    flex-direction: row;
+    padding: 0.5rem;
+    margin: 0rem;
+    cursor: pointer;
+   
+    
+    
+
+}.List_profile_navbar li{
+    width: 100px;
+    font-size: 13px;
+    text-transform: capitalize;
+    color: #8c939d;
+    font-weight: 700;
+    
+}
+
+.first_Ad{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.3rem;
+}
+
+
+.Edit_Profile_xp
+{
+    padding: 0.5rem;
+    background: #1877f2;
+    font-size: 13px;
+    max-width: 130px;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}.Edit_Profile_xp i {
+    width: 30px;
+    text-align: center;
+}
+
+.Edit_Profile_more{
+    
+    background: #e4e6eb;
+    padding: 0.5rem;
+    font-size: 13px;
+    width: 40px;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 0.4rem;
+
+}.Edit_Profile_more span{
+    color: black;
+   
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0rem;
+    margin: 0rem auto;
+    line-height: 20px;
+}
+
+.box_boot{
+    border-top: 1px solid #e4e6eb;
+    margin-top: 1rem;
+}
+
+
+
+/* Start Post..  */
+.cart_create{
+
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    background: #ffffff;
+    margin-top: 2rem;
+    border-radius: 0.6rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 1rem;
+
+}
+
+
+
+
+.cart_create_post{
+
+    display: flex;
+    align-items: center;
+    padding: 0.6rem;
+    margin: 0rem;
+    flex-direction: row;
+    width: 100%;
+    border-bottom: 1px solid #e4e6eb;
+}
+
+.cart_create_Image{
+    width: 45px;
+    height: 45px;
+    border: none;
+    border-radius: 50%;
+    padding: 0rem;
+    margin: 0rem;
+    margin-right: 0.5rem;
+    outline: none;
+    border: none;
+    box-shadow: 0rem 0rem 0rem 0.1rem #f0f2f5;
+}
+
+.Input_xp{
+    height: 2.8rem;
+    border-radius: 1.5rem;
+    font-size: 14px;
+    padding-left: 1rem;
+    text-transform: capitalize;
+    background-color: #f0f2f5;
+    outline: none;
+    border: none;
+
+    font-weight: 500;
+    width: 100%;
+    color: black;
+    line-height: 2.8rem;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+.cart_create_onder{
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin-top: 0.6rem;
+
+}
+
+.cart_create_onder span i{
+    
+    font-size: 17px;
+    width: 25px;
+    
+
+}
+
+.color_red i{
+    color: #ff0000a1;
+}
+.color_grren i
+{
+    color: #198754
+}
+
+.color_blue i{
+    color: #0e11c2
+}
+
+.color_blue span{
+    font-size: 11px;
+    font-weight: 500;
+}.color_grren span{
+    font-size: 11px;
+    font-weight: 500;
+}.color_red span{
+    font-size: 11px;
+    font-weight: 500;
+}
+
+
+/* start edit infromation*/
+.cart_Edit{
+    background: #ffffff;
+    margin-top: 2rem;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    outline: none;
+    cursor: pointer;
+    
+}
+
+.edit_information{
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+    font-size: 16px;
+    background-color: white;
+    padding: 1rem;
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+}
+.edit_information h1{
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+.infromation_edit .add_color_fem{
+    color: #8c939dba;
+}
+.infromation_edit i{
+    width: 30px;
+    font-size: 16px;
+    color: #8c939dba;
+}
+.edit_information span{
+    font-size: 13px;
+}
+.infromation_edit_xp{
+    background-color: #e4e6eb;
+    text-align: center;
+    margin: 1rem auto;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    text-transform: capitalize;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 0.2rem;
+    border: none;
+
+}
+
+.mcxs_S{
+   
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+
+
+}
+.Friends h1{
+
+    font-size: 17px;
+}
+.All_cart_Image_Friends{
+   margin: 0rem auto;
+padding: 0rem;
+}
+.test_width{
+    
+    margin: 0rem auto;
+padding: 0rem;
+width: 99%;
+}
+.TEST_CCCSs{
+   
+    padding: 0rem;
+    overflow: hidden;
+    margin: 0rem auto;
+    background-color: violet;
+    margin: 0.1rem 0.1rem 0.1rem 0.1rem;
+   
+    
+}
+.cartIema{
+width: 100%;
+height: 130px;
+background-color: white;
+padding: 0rem;
+}
+.Image_cart{
+    width: 100%;
+    height: 100px;
+    margin: 0rem auto;
+padding: 0rem;
+display: flex;
+}
+.cartIema_text{
+    font-size: 10px;
+    font-weight: 500;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 0.4rem;
+}
+
+
+
+
+.first_current_friends{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 0rem;
+    margin: 0.3rem auto;
+}
+.All_friends{
+    color: #1877f2;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+.firends_ax{
+    background: #ffffff;
+    margin-top: 1rem;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    outline: none;
+    cursor: pointer;
+}
+.test_uppsala{
+    background: #ffffff;
+    margin-top: 1rem;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    outline: none;
+    cursor: pointer;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.4rem;
+    margin-bottom: 4rem;
+   
+}
+
+
+/* cart..........*/
+.info_Xcart{
+    
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  
+}
+.image_user_info{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-left: 0.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0rem 0rem 0.1rem beige;
+}
+.Icons_Remove{
+    margin-left: auto;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    
+    line-height: 20px;
+    font-size: 18px;
+    font-weight: bold; 
+    cursor: pointer;
+    transition: all 0.20s;
+   position: relative;
+}.Icons_Remove:hover{
+    background-color: #eee;  
+}
+
+.text_user_name{
+    margin-left: 0.5rem;
+    font-size: 12px;
+}
+
+.image_user_create{
+    height: 500px;
+    width: 100%;
+    padding: 0rem;
+    margin: 0rem;
+    cursor: pointer;
+}
+
+.cart_title{
+    
+    width: 100%;
+    padding: 0rem;
+    font-size: 14px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    color: #6f757b;
+    
+    display: flex;
+    flex-wrap: wrap;
+    word-break: break-word;
+
+}
+.cart_title i{
+    font-size: 18px;
+    width: 24px;
+   
+}
+
+.cart_title .color_red{
+    color: #1877f2;
+    text-align: center;
+    font-size: 14px;
+}.cart_title .color_red:hover{
+    background-color: transparent;
+}
+
+.cart_title .color_bule{
+    
+    color: red;
+    width: 30px;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+
+
+/* cart comment...*/
+
+
+
+.comment_xps{
+    text-transform: capitalize;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+    
+}
+.comment_xps h3{
+    font-size: 12px;
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.Comment_user{
+    background-color: #f0f2f5;
+    width: 95%;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin: 0rem auto;
+}
+.like_reply{
+    width: 95%;
+    margin: 0rem auto;
+    text-transform: capitalize;
+    display: flex;
+    position: relative;
+    color: #6f757b;
+
+}.like_reply span{
+   
+   margin-left: 0.4rem;
+   width: 50px;
+
+}.like_reply  .like_show{
+    width: 50px;
+    background-color: white;
+    text-align: left;
+    border-radius: 1rem;
+    font-size: 15px;
+    position: absolute;
+    right: 0rem;
+    bottom: 0.8rem ;
+    box-shadow: 0rem 0rem 0.2rem white;
+}.like_reply  .like_show i{
+    width: 35px;
+}
+
+.Cart_comment_write
+{
+    display: flex;
+    
+    width: 100%;
+    margin-top: 2rem;
+    flex-direction: row;
+    
+}
+
+.Write_comment{
+    width: 90%;
+    margin: 0rem auto;
+
+    position: relative;
+}
+
+.comment_write{
+    height: 2rem;
+    border-radius: 1rem;
+    font-size: 13px;
+    padding-left: 1rem;
+    text-transform: capitalize;
+    background-color: #f0f2f5;
+    outline: none;
+    border: none;
+    box-shadow: 0rem 0rem 0rem 0.1rem #f0f2f5;
+    font-weight: 500;
+    margin-left: 0.3rem;
+    width: 100%;
+    transition: all 0.20s;
+}
+
+.more_hegith{
+    height: 5rem;
+    border-radius: 1rem;
+    font-size: 13px;
+    padding-left: 1rem;
+    text-transform: capitalize;
+    background-color: #f0f2f5;
+    outline: none;
+    border: none;
+    box-shadow: 0rem 0rem 0rem 0.1rem #f0f2f5;
+    font-weight: 500;
+    margin-left: 0.3rem;
+    width: 100%;
+    transition: all 0.20s;
+}
+
+.Icons_Write_comment{
+    position: absolute;
+    right: 1rem;
+    bottom: 0.4rem;
+    cursor: pointer;
+
+
+}.Icons_Write_comment i {
+    width: 24px;
+}
+
+
+/*  start post user create  */ 
+.Crate_public_post{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+    padding: 0rem;
+    border-bottom: 1px solid #e4e6eb;
+    display: flex;
+    cursor: pointer;
+    height: 30px;
+}.Crate_public_post span{
+    display: block;
+    width: 80%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.Crate_public_post i {
+    margin-left: auto;
+    color: #e4e6eb;
+    font-size: 20px;
+    text-align: right;
+    transition: all 0.20s;
+    line-height: 30px;
+    margin-right: 0.5rem;
+}.Crate_public_post i:hover{
+    color: #c9d2e0;
+}
+
+.first_public_me{
+  
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-family: inherit;
+    padding: 0rem;
+    margin: 0rem;
+    
+}
+
+.public_me{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    text-transform: capitalize;
+    margin-top: -1rem;
+}
+
+.icons_Public{
+    background-color: #e4e6eb;
+    border: none;
+    border-radius: 0.3rem;
+    outline: none;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    justify-content: space-evenly;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 0.2rem;
+    width: 89px;
+    color: black;
+}
+.icons_Public span
+{
+    font-size: 12px;
+}
+.mahmoud{
+    font-weight: 500;
+    color: black;
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+.input_post_create_x{
+    height: 6rem;
+    border: none;
+    outline: none;
+    width: 100%;
+    padding-left: 2rem ;
+   text-transform: capitalize;
+   
+}
+
+.posst_video_photo{
+    border: 1px solid #e4e6eb;
+    padding: 0.3rem;
+    display: flex;
+    justify-content: flex-start;
+    width: 90%;
+    margin: 0rem auto;
+    border-radius: 0.4rem;
+    outline: none;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 17px;
+    color: #3a3b3f;
+    align-items: center;
+
+}
+.Add_to_Your_Post{
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.posst_video_photo .Icons_Post_create{
+ margin-left: auto;
+ display: flex;
+    align-items: center;
+}.posst_video_photo .Icons_Post_create i{
+    width: 31px;
+    text-align: center;
+}
+
+.color_bule{
+    color: #3c3cf07d;
+    font-size: 20px;
+}.color_yerl{
+    color: #e8e8ad;
+    font-size: 20px;
+}.color_red{
+    color: #ff0000a1;
+    font-size: 20px;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+
+
+
+
+}.color_red:hover{
+    background-color: #eee;
+}.color_grren{
+    font-size: 20px;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+}
+
+.color_grren:hover{
+    background-color: #eee;
+
+}
+
+
+
+.sists{
+    font-size: 20px;
+}
+
+.post__create{
+    border: 1px solid #e4e6eb;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    width: 95%;
+    margin: 0rem auto;
+    border-radius: 0.4rem;
+    outline: none;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #1877f2;
+    color: white;
+    line-height: 40px;
+    font-family: monospace;
+    
+
+}
+
+.text_xs{
+    position: relative;
+}
+.text_xs i{
+    right: 2rem;
+    bottom: 1rem;
+    position: absolute;
+}
+
+
+.Add_open_Adress{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    left: 0px;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    transition: opacity .4s ease, visibility .4s ease, transform .4s easw-in-out;
+    background-color: rgba(0, 0, 0, 0.445);
+    opacity: 0;
+    transform: scale(0);
+    overflow: hidden;
+    z-index: 34534543;
+    visibility: hidden;
+    flex-direction: column;
+    z-index: 45;
+}
+
+.Add_open_Adress.open{
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+
+
+/* start image me user... */
+
+
+.ImgE_ME{
+ padding: 0rem;
+ margin: 0rem;
+}
+
+.image_cart_me{
+    border: none;
+    border-radius: 0.2rem;
+    outline: none;
+    opacity: 0.9;
+    transition: all 0.20s;
+    box-shadow: 0rem 0rem 0.1rem white;
+    width: 98%;
+    height: 120px;
+    margin: 0.1rem 0.1rem;
+}.image_cart_me:hover{
+    opacity: 1;
+}
+
+.ALLphoto{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+}
+.text_se_photo{
+    color: #1877f2;
+    text-transform: capitalize;
+    font-size: 13px;
+}
+.text_xp{
+    font-weight: bold;
+}
+.box-photo{
+    background: #ffffff;
+    margin-top: 1rem;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    outline: none;
+    cursor: pointer;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.4rem;
+}
+
+
+/* start edit all profile */
+.Info_xp{
+    background: #ffffff;
+    margin-top: 20rem;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    outline: none;
+    cursor: pointer;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.4rem;
+    margin-bottom: 5rem;
+}
+.Profile-TITLE{
+    
+    border-bottom: 1px solid #e4e6eb;
+    width: 100%;
+    padding: 0rem;
+    margin: 0rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+.Profile-TITLE i
+{
+    margin-left: auto;
+    color: #e4e6eb;
+    font-size: 25px;
+    text-align: right;
+    transition: all 0.20s;
+}
+
+.profile_picture{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-transform: capitalize;
+    cursor: pointer;
+    margin-top: 1rem;
+}.profile_picture h1{
+    font-size: 13px;
+    text-transform: capitalize;
+}.profile_picture span{
+    color: #1877f2;
+    font-size: 13px;
+   
+    width: 47px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    transform-style: preserve-3d;
+    transition: all 0.20s;
+
+}.profile_picture span:hover{
+    background: #eee;
+}
+
+.imag_edit{
+    width: 159px;
+    height: 160px;
+    border-radius: 50%;
+    margin: 0rem auto;
+    display: block;
+    border: none;
+    outline: none;
+    box-shadow: 0rem 0rem 0.1rem #1877f2;
+    padding: 0.1rem; 
+    opacity: 0.9;
+    transition: all 0.30s;
+
+}
+.imag_edit:hover{
+    opacity: 1;
+}
+
+.cover_photo_Edit{
+    width: 70%;
+    height: 149px;
+    border-radius: 0.5rem;
+    margin: 1rem auto;
+    display: block;
+    overflow: hidden;
+    opacity: 0.9;
+    transition: all 0.30s
+}.cover_photo_Edit:hover{
+    opacity: 1;
+}
+
+.xp_Edit{
+    text-align: center;
+    display: block;
+    margin-bottom: 3rem;
+    font-size: 13px;
+    text-transform: capitalize;
+    
+}
+
+.info_edit{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #e7f3ff;
+    text-align: center;
+    margin-top: 1rem;
+    color:  #1877f2;
+    text-transform: capitalize;
+}
+
+
+
+
+.Add_open_Adress.open{
+    overflow: auto;
+}
+
+
+.edit_information{
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+    font-size: 16px;
+    background-color: white;
+    padding: 1rem;
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+}
+
+
+.infromation_edit_font i{
+    width: 30px;
+    font-size: 15px;
+    color: #e4e6eb;
+}.infromation_edit_font span{
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+
+
+/* start firend sida... */
+
+.top_search_friends{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: capitalize;
+    margin-bottom: 4rem;
+    flex-wrap: wrap;
+   
+}.top_search_friends h1{
+    font-size: 17px;
+    text-transform: capitalize;
+}
+.list_Search_friens{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    align-items: center;
+    margin-bottom: 0.2rem;
+   
+}
+.Search_friens{
+    width: 232px;
+    height: 2.3rem;
+    border-radius: 1.1rem;
+    font-size: 13px;
+    padding-left: 2.7rem;
+    background-color: #f0f2f5;
+    cursor: pointer;
+
+}.list_Search_friens i{
+    position: absolute;
+    top: 0.9rem;
+    left: 1rem;
+    font-size: 13px;
+    color: #9ba1a8;
+}
+
+.list_remove_list{
+     background-color: #f0f2f5;
+     width: 40px;
+     height: 40px;
+     border: none;
+     border-radius: 0.4rem;
+     line-height: 25px;
+     text-align: center;
+     cursor: pointer;
+}.list_remove_list .list_remove{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.list_navbar_friends{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+
+    
+    
+}.list_navbar_friends li{
+    font-size: 12px;
+    text-transform: capitalize;
+    width: 100px;
+    margin-left: 0.2rem;
+    font-weight: bold;
+   
+}
+
+
+
+
+.color_cart_X{
+    background: #ffffff;
+    margin-top: 1rem;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem #e4e6eb;
+    outline: none;
+    cursor: pointer;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.4rem;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+.all_firend_list_here{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.list_all_Friends_all{
+    padding: 1rem;
+    border: 1px solid #e4e6eb;
+    border-radius: 0.4rem;
+    text-transform: capitalize;
+    margin-top: 0.2rem;
+    display: flex;
+    align-items: center;
+    margin-left: 0.3rem;
+}
+
+.list_all_Friends_all_Image{
+    width: 70px;
+    height: 70px;
+    border: none;
+    outline: none;
+    border-radius: 0.3rem;
+}
+.Khalif_list{
+    font-size: 12px;
+}
+
+.teext_friend_list{
+  
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: bold;
+       margin-left: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    cursor: pointer;
+
+}.list_remove{
+ 
+    font-size: 20px;
+}
+
+
+/*  start photo  */
+.list_all_Photo_all{
+    position: relative;
+    
+    overflow: hidden;
+    margin-left: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+.list_all_Photo_all_Image{
+    width: 100%;
+    height: 150px;
+    border: none;
+    border-radius: 0.4rem;
+    outline: none;
+    transition: all 1.20s;
+    overflow: hidden;
+    transform-style: preserve-3d;
+    box-shadow: 0rem 0rem 0.1rem 0rem white;
+}.list_all_Photo_all_Image:hover{
+    transform: scale(1.5);
+}
+.list_all_Photo_all i{
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.288);
+    text-align: center;
+    line-height: 30px;
+    color: #e4e6eb;
+    font-size: 13px;
+    opacity: 0.8;
+    transition: all 0.20s;
+    box-shadow: 0rem 0rem 0.1rem 0rem white;
+}.list_all_Photo_all i:hover{
+    opacity: 1;
+    padding: 0.2rem;
+}
+.color_blue{
+    color: #1877f2;
+    font-size: 20px;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+ }.color_blue:hover{
+     background-color: #eee;
+ }
+
+
+
+ .list_remove_listc{
+     width: 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+ }
+
+ .list_remove_list_add{
+    color: #1877f2;
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: bold;
+    order: 1;
+    margin-right: 0.3rem;
+   
+ }
+
+.list_remove
+ {
+    background-color: #f0f2f5;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 0.4rem;
+    line-height: 25px;
+    text-align: center;
+    cursor: pointer;
+ }
+
+
+ .add_open_sjalv .Info_xp{
+    margin-top: 2rem;
+ }
+

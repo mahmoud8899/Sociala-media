@@ -1,0 +1,11 @@
+
+
+.text_box_usern{
+
+    text-transform: capitalize;
+    font-size: 10px;
+    text-align: center;
+    display: block;
+    margin-top: 0.4rem;
+    word-wrap: break-word;
+}

@@ -1,0 +1,296 @@
+
+
+.test_nw{
+   
+    opacity: 0.9;
+  
+}
+
+.add_bottom{
+    margin-top: 7rem;
+}
+
+/* Start Frineds*/
+
+
+.navBar_friends{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+
+}.navBar_friends h1{
+    font-size: 17px;
+    text-transform: capitalize;
+    font-weight: 500;
+} .navBar_friends span{
+    margin-left: auto;
+    text-transform: capitalize;
+    color: #1877f2;
+}
+.top_text{
+    font-size: 17px;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 0rem;
+    margin-bottom: 1rem;
+}
+
+.firends_LIST{
+    position: relative;
+    width: 95%;
+    padding: 0rem;
+    margin: 0rem auto;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 10px;
+
+}
+.firends_name_textx{
+    width: 95%;
+    text-transform: capitalize;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: left;
+    display: block;
+    margin: 1rem auto;
+}
+.Image_items_friends_first{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.Image_items_friends_last{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    left: 15px;
+    border: none;
+    outline: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem rgba(255, 255, 255, 0.37);
+}
+.hOW_MATCH_friends{
+    margin-left: 1.5rem;
+}
+
+.add_friend_friends{
+    width: 95%;
+    height: 30px;
+    border: none;
+    margin: 0.3rem auto;
+    background-color: #eee;
+    color: #1877f2;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 0.4rem;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 0.8rem;
+}
+.add_friend_friends_remove{
+    width: 95%;
+    height: 30px;
+    border: none;
+    margin: 0.3rem auto;
+    background-color: #eee;
+    color: black;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 0.4rem;
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.top_navBar_friendss{
+    background-color: white;
+    width: 100;
+    display: flex;
+    align-items: center;
+    margin: 0.3rem auto;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}.top_navBar_friendss span{
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 500;
+}
+.top_navBar_friendss i{
+    margin-left: auto;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+    background-color: #eee;
+    border-radius: 50%;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white ;
+    font-size: 14px;
+    opacity: 0.9;
+    color: rgba(0, 0, 0, 0.753);
+}
+
+.List_navBar_frinds{
+    list-style: none;
+    
+    padding: 0rem;
+    margin: 0rem;
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.List_navBar_frinds li {
+    margin: 0.3rem auto;
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: white;
+    width: 100%;
+}.List_navBar_frinds li span{
+    margin-left: 1rem;
+    font-size: 13px;
+    
+}
+.List_navBar_frinds li i {
+    margin-left: auto;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+    background-color: #eee;
+    border-radius: 50%;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white ;
+    font-size: 14px;
+    opacity: 0.9;
+    color: rgba(0, 0, 0, 0.753);
+}
+
+.List_navBar_frinds li .xosppp{
+   margin-left: auto;
+   float: right;
+    
+}
+
+
+/*
+.List_navBar_frinds li .xosppp::after{
+    position: absolute;
+    width: 20px;
+    height: 1px;
+    content: "";
+    background-color: black;
+}
+.List_navBar_frinds li .xosppp::before{
+    position: absolute;
+    width: 20px;
+    height: 1px;
+    content: "";
+    background-color: black;
+    transform: translate(12deg);
+   
+    
+}
+*/
+.buttom_ok_friends{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 0rem auto;
+    padding: 0rem;
+    align-items: center;
+    margin: 0.5rem;
+}
+.buttom_ok_friends_Confirm{
+    background-color: #1877f2;
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    width: 100px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+    margin-right: 0.2rem;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    cursor: pointer;
+}
+.buttom_ok_friends_buttom_remove{
+    background-color: #e4e6eb;
+    color: black;
+    height: 30px;
+    line-height: 30px;
+    width: 100px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: none;
+    outline: none;
+    border-radius: 0.4rem;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    cursor: pointer;
+} 
+
+
+
+.testww{
+    
+    padding: 0rem;
+    margin: 0rem;
+    
+}
+.col_box_with{
+    width: 96%;
+    background-color: white;
+    margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0rem;
+    border-radius: 0.4rem;
+    border: none;
+    outline: none;
+}
+
+.col_box_with .Image_items_friends{
+    width: 100%;
+    padding: 0rem;
+    margin: 0rem auto;
+    height: 200px;
+    border: none;
+    outline: none;
+  
+  
+    
+}
+.Link_navBAR{
+    width: 100%;
+
+}
+/*
+.col_className{
+    padding: 0rem;
+    margin: 0rem;
+    background-color: white;
+    overflow: hidden;
+    margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+    border-radius: 0.5rem;
+}
+*/

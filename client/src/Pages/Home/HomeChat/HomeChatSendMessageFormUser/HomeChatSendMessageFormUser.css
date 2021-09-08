@@ -1,0 +1,20 @@
+
+
+.addPostion{
+    position: relative;
+    cursor: pointer;
+}
+
+.uploadingUserImage{
+    position: absolute;
+    left: 0rem;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+    opacity: 0;
+}
+.loading_hidden{
+    display: none;
+}

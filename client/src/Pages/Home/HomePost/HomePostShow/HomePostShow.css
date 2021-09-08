@@ -1,0 +1,33 @@
+
+.Home_color{
+    color: black;
+}
+.info_name_PostShow{
+  
+   color: black;
+   float: right;
+   display: block;
+
+
+
+
+}
+.nowAddIndex{
+    color: black;
+}
+.coxs{
+    color: black;
+}
+
+.comments_users span{
+    font-size: 10px;
+    text-transform: capitalize;
+}
+
+.userLike_Array{
+    display: flex;
+    overflow: hidden;
+    height: 20px;
+    line-height: 20px;
+    width: 104px;
+}

@@ -1,0 +1,240 @@
+.row_login{
+    margin-top: 7rem;
+    background: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    
+}
+.input_input{
+    border-radius: 0.2rem;
+    
+}
+.LoginIn_Slider{
+position: relative;
+width: 100%;
+height: 450px;
+overflow: hidden;
+padding: 0rem 0rem 0rem 0rem;
+}
+.LoginIn_Slider h1{
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    font-size: 20px;
+    z-index: 2;
+    
+}
+.ImageLoginSlider{
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    border-radius: 0.9rem;
+   cursor: pointer;
+   transition: all 0.20s;
+   cursor: pointer;
+
+}.ImageLoginSlider:hover{
+    opacity: 0.7;
+}
+
+
+.form_input{
+    padding: 1rem;
+}
+
+.form-label {
+    margin-bottom: .5rem;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-family: inherit;
+}
+.icons_input {
+    color: #1877f2c7;
+    text-align: left;
+    font-size: 16px;
+    width: 25px;
+
+}
+.login_div_xx{
+    width: 100px;
+}
+.button_login{
+    background: #1877f2c7;
+    font-size: 13px;
+    font-weight: 500;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 0.4rem;
+    text-transform: capitalize;
+}
+
+/* start login  */ 
+.Login_div .fas.fa-check{
+    background-color: transparent;
+}
+.Login_div{
+   
+    margin-top: 1rem;
+    text-transform: capitalize;
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}.Login_div span::first-letter{
+    color: #1877f2c7;
+}
+
+.Login_div i{
+    color: #1877f2c7;
+
+    width: 50px;
+    text-align: center;
+
+}
+
+/* end login  */ 
+
+
+.Login_goog_facbook{
+    width: 100%;
+    
+    margin-top: 1rem;
+    
+    padding: 0rem;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Login_goog_facbook span{
+    width: 48%;
+    padding: 0.4rem;
+    border-radius: 0.4rem;
+    text-align: center;
+    box-shadow: 0rem 0rem 0.1rem 0rem #1877f2c7;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.image_png{
+
+    width: 22px;
+    height: 22px;
+    margin-right: 0.4rem;
+}
+
+
+
+.font-six{
+    font-size: 15px;
+    cursor: pointer;
+    transform-style:preserve-3d ;
+    transition: all 0.20s;
+    
+}.font-six:hover{
+    opacity: 0.6;
+}
+
+.xp_input{
+   
+    width: 100%;
+    height: 40px;
+    font-size: 13px;
+    font-weight: 500;
+    border: none;
+    border-radius: 0.4rem;
+    background: #eeeeeead;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    outline: none;
+    padding-left: 0.5rem;
+    text-transform: capitalize;
+}
+
+.onlyLoginUser{
+
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    background-color: rgba(0, 0, 0, 0.226);
+    position: fixed;
+    top: 0rem;
+    left: 0rem;
+    z-index: 4565;
+    transform: scale(0);
+    transition: opacity .4s ease, visibility .4s ease, transform .4s easw-in-out;
+    justify-content: center;
+
+}
+
+.onlyLoginUser.open{
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+}
+
+.allt_login_d{
+    width: 30%;
+    opacity: 0.6;
+   
+}
+
+.error
+{
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 0.5rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0rem;
+    cursor: pointer;
+
+    transition: 1.20s ease-in-out;
+    position: relative;
+    background-color: #1877f2c7;
+    height: 100px;
+    line-height: 100px;
+    border: none;
+    outline: none;
+    border-radius: 0.5rem;
+    box-shadow: 0rem 0rem 0.1rem #1877f2c7;
+    word-wrap: break-word;
+    font-size: 13px;
+    justify-content: center;
+}
+.error::first-letter{
+    color: white;
+    border-radius: 0.1rem;
+    margin-left: 0.2rem;
+    background-color: #1877f2c7;
+    padding: 0.2rem;
+    outline: none;
+    border: none;
+    border-radius: 0.3rem;
+}
+
+.class_likn{
+    text-decoration: none;
+    color: white;
+}.class_likn:hover{
+    color: white;
+}

@@ -1,0 +1,17 @@
+
+
+.Post_ID{
+    margin-top: 6rem;
+    background-color: white;
+}
+
+.Image_Comment_post_id{
+    width: 90%;
+    height: 222px;
+    border-radius: 0.4rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    opacity: 0.8;
+    margin: 0.2rem auto;
+}

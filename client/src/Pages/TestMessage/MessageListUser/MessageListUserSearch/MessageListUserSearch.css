@@ -1,0 +1,86 @@
+
+.sEARCH_MESSA{
+    
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+
+}
+.sEARCH_MESSA .Search_Messenger_add{
+    margin-left: auto;
+    height: 40px;
+    border-radius: 1rem;
+    border: none;
+    outline: none;
+    background-color: #eee;
+    font-size: 14px;
+    text-transform: capitalize;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    margin: 0rem auto;
+   width: 60%;
+    
+}
+.sEARCH_MESSA div{
+    padding: 0rem;
+    margin: 0rem;
+
+}
+.sEARCH_MESSA div i{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #eee;
+    line-height: 30px;
+    margin-top: -1rem;
+    text-align: center;
+}
+.all_user_Image_user_info_xs{
+   
+    overflow: hidden;
+    height: 400px;
+    overflow-y: auto;
+}
+.row_xs{
+
+    
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin-top: 0.4rem;
+    padding: 0.4rem;
+    border: none;
+    outline: none;
+   width: 100%;
+   border-radius: 0.5rem;
+   cursor: pointer;
+   transition: all 0.30s;
+  
+ 
+}.row_xs:hover{
+    background-color: #eee;
+}
+
+.row_xs .text_Name{
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+.all_user_Image_user_info_IMAGE_s{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+}
+
+.search_not{
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: capitalize;
+
+}

@@ -1,0 +1,370 @@
+
+
+.row_Message{
+    background-color: white;
+    margin-top: 3.5rem;
+    padding: 0rem;
+    height: 92vh;
+}
+
+
+
+.top_messge_search{
+  
+    display: flex;
+    align-items: center;
+    height: 60px;
+    line-height: 60px;
+    padding: 0rem;
+    flex-wrap: wrap;
+    overflow: hidden;
+   
+    
+}.top_messge_search h1{
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.top_messge_search_Icons{
+    margin-left: auto;
+    display: flex;
+}.top_messge_search_Icons i{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 30px;
+    background-color: #eee;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    color: rgba(0, 0, 0, 0.664);
+    cursor: pointer;
+    margin-left: 0.5rem;
+    font-size: 13px;
+}
+
+.sEARCH_MESSA{
+   
+    display: flex;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    position: relative;
+    align-items: center;
+}
+.Search_Messenger{
+    width: 100%;
+    height: 40px;
+    border-radius: 1rem;
+    border: none;
+    outline: none;
+    background-color: #eee;
+    font-size: 14px;
+    text-transform: capitalize;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    margin: 0rem auto;
+    padding-left: 3rem;
+}
+
+.sEARCH_MESSA i{
+    position: absolute;
+    left: 1rem;
+    color: rgba(0, 0, 0, 0.664);
+}
+
+.all_user_Image_user_info{
+  
+    height: 409px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    overflow-y: auto;
+    cursor: pointer;
+}
+.width_heigth{
+    margin-top: 0.6rem;
+    display: flex;
+    align-items: center;
+    padding: 0.2rem;
+    transform-style: preserve-3d;
+    transition: all 0.30s;
+}.width_heigth:hover{
+    background-color: #eee;
+    border-radius: 0.5rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.all_user_Image_user_info_IMAGE{
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.text_Name{
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-family: monospace;
+
+}
+.fas.fa-check{
+    background-color: #eee;
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 27px;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    color: rgba(0, 0, 0, 0.664);
+    cursor: pointer;
+}
+
+.app_loading{
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    word-wrap: break-word;
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0rem;
+    padding: 0rem;
+    padding: 0.4rem;
+}
+
+.app_loading span{
+    margin-left: 0.5rem;
+    overflow: hidden;
+    padding: 0rem;
+}
+
+
+
+/* Start messager*/
+
+.top_Imafge_Video{
+    
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0rem;
+    padding: 0.2rem;
+    border-bottom: 2px solid #eee;
+}
+
+.top_Imafge_Video span{
+    margin-left: 0.5rem;
+    color: #1877f2c7;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+.top_Imafge_Video_Image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+}
+.top_Imafge_Video_Icons{
+    margin-left: auto;
+    display: flex;
+    
+}.top_Imafge_Video_Icons i{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: #1877f2c7;
+    line-height: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 18px;
+}
+.Message_show_you_Image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.Message_show{
+    height: 400px;
+    padding: 0rem;
+    margin: 0rem;
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    overflow: hidden;
+    overflow-y: auto;
+   
+}
+.Message_show_you{
+   
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    flex-wrap: wrap;
+   
+
+}
+.Text_Message{
+    background-color: #1877f2c7;
+    word-wrap: break-word;
+    padding: 0.7rem;
+    text-transform: capitalize;
+    border-radius: 2rem;
+    margin-left: 0.5rem;
+
+}
+.Message_show_me{
+    
+  
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: auto;
+    margin-top: 0.7rem;
+    display: flex;
+    
+    
+   
+}.Text_Message_me{
+    background-color: #eee;
+    padding: 0.7rem;
+    border-radius: 1rem;
+    text-transform: capitalize;
+    font-size: 11px;  
+}
+
+.Send_iNPUT_mESSAGE{
+   
+    padding: 0rem;
+    margin: 0.5rem auto;
+    display: flex;
+    justify-content: space-between;
+    border-top: 2px solid #eee;
+    height: 60px;
+    align-items: center;
+}
+.Send_iNPUT_mESSAGE_Icons{
+    overflow: hidden;
+}
+
+.Send_iNPUT_mESSAGE_Icons i{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #1877f2c7;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 0.5rem;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.Send_iNPUT_mESSAGE_input{
+    width: 100%;
+    outline: none;
+    height: 40px;
+    border-radius: 2rem;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: capitalize;
+    background-color: #eee;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+}
+.Send_iNPUT_mESSAGE_input_add{
+    width: 100%;
+    outline: none;
+    height: 50px;
+    border-radius: 2rem;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: capitalize;
+    background-color: #eee;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    transition: all 0.50s;
+}
+.Send_iNPUT_mESSAGE_2Icons i {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #1877f2c7;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 0.5rem;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.50s;
+
+}
+
+.Hape_Input{
+    position: relative;
+    display: flex;
+    align-items: center;
+}.Hape_Input i {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 19px;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 0.5rem;
+    color: #1877f2c7;
+    cursor: pointer;
+    position: absolute;
+    right: 0rem
+}
+
+.timeChat{
+    width: 100%;
+    display: flex;
+    font-size: 13px;
+    
+} 
+.left_time{
+    margin-left: auto;
+    font-size: 10px;
+    text-transform: capitalize;
+}
+
+
+.styole_width{
+    border-right: 2px solid #dbe0e8a8;
+    margin-top: 3.7rem;
+ 
+}
+.styole_width_message{
+    margin-top: 2.7rem;
+}
+
+.green{
+
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(10, 150, 10);
+    border:none;
+    outline: none;
+    box-shadow: 0rem 0rem 0.2rem 0.1rem white;
+    
+}
+
+.className_left_message{
+    width: 60px;
+    font-size: 20px;
+    color: #dbe0e8a8;
+    transition: all 0.20s;
+    cursor: pointer;
+}.className_left_message:hover{
+    color: black;
+}

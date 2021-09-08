@@ -1,0 +1,82 @@
+.Xp_Story_Tol{
+    position: relative;
+}
+
+.File_uPLOADING_Story{
+
+    z-index: 456786544567;
+    background-color: black;
+    position: absolute;
+    z-index: 4567877899889;
+    left: -0.1rem;
+    top: -0.1rem;
+    width: 40px;
+    height:  40px;
+    border-radius: 50%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.loading_xp{
+    outline: none;
+    border: none;
+    z-index: 354656;
+    color: black;
+    text-transform: capitalize;
+}
+.image_xspostion{
+    position: relative;
+    width: 100%;
+    margin: 0rem;
+    padding: 0rem;
+    display: block;
+   
+}
+.Loading_current{
+
+    position: absolute;
+    top: 1rem;
+    margin: 0rem;
+    padding: 0rem;
+    background-color: black;
+    width: 100%;
+    height: 0.1rem;
+    overflow: hidden;
+    
+}
+.Loading_user{
+    width: 100%;
+    position: absolute;
+    top: 1.9rem;
+    margin: 0rem;
+    padding: 0rem;
+
+
+}
+
+.Image_router_info{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    outline: none;
+    border: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem white;
+    margin-left: 1rem;
+}.Loading_user span{
+    font-size: 13px;
+    text-transform: capitalize;
+    margin-left: 1rem;
+    color: white;
+}
+
+.User_Story_xeewewe{
+    position: absolute;
+    bottom: 0rem;
+    z-index: 3;
+    font-weight: bold;
+    text-transform: capitalize;
+    overflow: hidden;
+    color: white;
+    font-size: 11px;
+    word-break: break-word;
+}

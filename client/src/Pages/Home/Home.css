@@ -1,0 +1,122 @@
+.top_first_Home{
+   
+    color: white;
+    margin-top: 10rem;
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem;
+    
+}
+
+.List_Chat_userInfo
+{
+   
+   
+    border: none;
+   
+    outline: none;
+    cursor: pointer;
+   
+    border: none;
+    border-radius: 0.4rem;
+    position: relative;
+    height: 600px;
+    opacity: 0.6;
+    top: -5rem;
+   
+}
+.list_user_chat_xs{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 400px;
+    padding: 0rem;
+    margin: 0rem auto;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.first_search_chat{
+    color: #6f6f6f;
+    display: flex;
+    padding: 0rem;
+    margin: 0rem auto;
+    justify-content: flex-start;
+    text-transform: capitalize;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: bold;
+    align-items: center;
+    margin-bottom: 2rem;
+    opacity: 0.7;
+    margin-top: 5rem;
+}
+.search_video{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}.search_video i{
+
+    width: 40px;
+}
+
+.Image_chat{
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    outline: none;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem rgb(0 0 0 / 22%);
+    margin-left: 4.2rem;
+
+}
+.first_search_chat span{
+    margin-left: 4rem;
+}
+.List_user_InfoImage{
+    display: flex;
+    align-items: center;
+    margin-top: 0.9rem;
+    justify-content: flex-start;
+
+    border-radius: 0.4rem;
+    padding: 0.3rem;
+    
+
+}.List_user_InfoImage:hover{
+    background-color: #ccced3;
+   
+}
+.List_user_InfoImage span{
+    margin-left: 0.5rem;
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: black;
+}
+
+.edit_add_chat{
+    display: flex;
+    margin-right: 2rem;
+}
+.edit_add_chat i{
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    outline: none;
+    background-color: white;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    line-height: 50px;
+    box-shadow: 0rem 0rem 0.1rem 0.1rem rgba(192, 177, 177, 0.219);
+    transition: all 0.20s;
+    transform-style: preserve-3d;
+    margin-left: auto;
+}.edit_add_chat i:hover{
+
+    transform: scale(1.1);
+
+}

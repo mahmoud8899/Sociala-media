@@ -1,0 +1,23 @@
+.fas.fa-camera-retro{
+
+    position: relative;
+
+}
+
+.uploading_Image_chat{
+
+    width: 30px;
+    height: 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    position: absolute;
+    left: 0rem;
+    border-radius: 50%;
+    opacity: 0;
+
+}
+
+.xps_error{
+    display: none;
+}

@@ -1,0 +1,111 @@
+.Image_Profile_Home{
+    color: black;
+    padding: 0.4rem;
+    width: 200px;
+}.Image_Profile_Home:hover {
+    background-color: #ccced3;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    opacity: 0.6;
+}
+.test_Postion{
+    margin: 0rem auto;
+    color: white;
+    display: block;
+    padding: 0rem;
+    position: fixed;
+    width: 300px;
+}
+
+
+.Image_Profile_Home_me{
+    width: 40px;
+    height:  40px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    box-shadow: 0rem 0rem 0rem 0.1rem #ccced3;
+    margin-left: 0.3rem;
+}
+.Image_Profile_Home span{
+font-size: 13px;
+margin-left: 0.5rem;
+font-weight: bold;
+text-transform: capitalize;
+
+}
+
+.firends_Like{
+    color: black;
+   
+    width: 200px;
+    padding: 0rem;
+    margin: 0rem;
+    margin-top: 1rem;
+    height: 40px;
+    line-height: 40px;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    font-weight: bold;
+    transition: 0.20s;
+}
+.firends_Like:hover
+{
+    background-color: #ccced3;;
+    border-radius: 0.2rem;
+    border: none;
+    outline: none;
+    opacity: 0.6;
+}
+
+.firends_Like i{
+    width: 55px;
+    text-align: center;
+    font-size: 26px;
+}
+.color_Bule{
+    color: #1876f2b6;
+}
+
+.alam
+{
+    color: #eb592a;
+}
+
+.klocka_time{
+    color: #1876f2;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+.color_white{
+    color: white;
+}
+
+.color_lsat
+{
+    color: #ccced3;
+}
+
+.solid_bottom{
+    border-bottom: 2px solid #ccced3;
+    width: 200px;
+}
+/*
+
+*/
+.tesxxxxx{
+    
+    position: fixed;
+    max-width: 250px;
+}
+
+.Link_navBAR{
+    text-decoration: none;
+    color: black;
+}.Link_navBAR:hover{
+    color: black;
+}
