@@ -1,9 +1,10 @@
 # Sociala-media
 Sociala media
-Javascript Node js and React js Soket.io, Bootstrap
+Javascript Node js and React js Soket.io, Bootstrap ,redux
 
-looking here if you want 
-https://mahmoud-uppsala.herokuapp.com/
+
+========================================================================================================================================================================================
+https://socialmedia77.herokuapp.com/
 ==============================================
 
 ![x1](https://user-images.githubusercontent.com/71209286/133047082-00f1d166-bd35-4cd3-8d8b-a8b8b2c94c90.png)
